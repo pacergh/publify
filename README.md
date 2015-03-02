@@ -80,6 +80,7 @@ heroku config:set provider=AWS
 aws_access_key_id=YOUR_AWS_ACCESS_KEY_ID
 aws_secret_access_key=YOUR_AWS_SECRET_ACCESS_KEY
 aws_bucket=YOUR_AWS_BUCKET_NAME
+aws_region=YOUR_AWS_BUCKET_REGION
 ```
 
 To generate the Gemfile.lock, run:
